@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @LukasAud
-- 👀 I’m interested in automation, scripting and website design
-- 🌱 I’m currently learning Ruby, JavaScript, Mac OS
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: lukas.audzevicius@puppet.com
+I'm Lukas and I'm an Associate level Software Engineer. Most of my contributions are related to my current place of work: [Puppet](https://github.com/puppetlabs).
+
+Most of my contributions so far have been centered around general maintenance/bugfixing of [Puppetlabs](https://github.com/puppetlabs) modules.
+
 
 <!---
 LukasAud/LukasAud is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
