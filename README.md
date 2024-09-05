@@ -1,6 +1,5 @@
-I'm Lukas and I'm an Associate level Software Engineer. Most of my contributions are related to my current place of work: [Puppet](https://github.com/puppetlabs).
-
-Most of my contributions so far have been centered around general maintenance/bugfixing of [Puppetlabs](https://github.com/puppetlabs) modules.
+I'm Lukas and I'm a Software Engineer at [Puppet](https://github.com/puppetlabs) by Perforce.
+Most of my contributions so far have been centered around general maintenance/bugfixing of [Puppetlabs](https://github.com/puppetlabs) modules and/or tools.
 
 
 <!---
